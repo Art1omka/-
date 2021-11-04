@@ -62,8 +62,8 @@ iPhone SE (2 поколения)
 iPod Touch
 iPod Touch (7)
 
-Разрешение экрана | OS | Browser
------------- | ------------- 
+Разрешение экрана | OS | Browser |
+------------ | ------------- | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
