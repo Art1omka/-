@@ -1,7 +1,7 @@
 # Тестовое задание
 1 Задание. Составить список девайсов для тестирования мобильного приложения Velas Wallet на платформах Android/IOS
 
-Browser:Google Chrome,Safari (для ОС: Android,IOS). Хотя в других источниках считают что на 2 месте браузер является Firefox 
+Browser:Google Chrome,Safari (для ОС: Android,IOS).Хотя в других источниках считают что на 2 месте браузер является Firefox .Сафари есть только в Айфоне, в других платформах его не бывает.
 
 https://gs.statcounter.com/browser-market-share
 
