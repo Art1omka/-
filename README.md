@@ -91,3 +91,19 @@ Samsung Galaxy M52 XIAOMI REDMI 9 (2400 x 1080) | Android 11 | Google Chrome
 Samsung Galaxy M52 XIAOMI REDMI 9 (2400 x 1080) | Android 11 | Safari
 SAMSUNG Galaxy A50 XIAOMI Redmi 9 (2340 х 1080) | Android 11 | Google Chrome
 SAMSUNG Galaxy A50 XIAOMI Redmi 9 (2340 х 1080) | Android 11 | Safari
+SAMSUNG Galaxy A12 XIAOMI Redmi 9 (Other) | Android 11 | Google Chrome
+SAMSUNG Galaxy A12 XIAOMI Redmi 9 (Other) | Android 11 | Safari
+IphoneX | IOS 12 | Google Chrome
+IphoneX | IOS 12 | Safari
+IphoneX | IOS 13 | Google Chrome
+IphoneX | IOS 13 | Safari
+Iphone 11 | IOS 13 | Google Chrome
+Iphone 11 | IOS 13 | Safari
+IphoneX | IOS 14 | Google Chrome
+IphoneX | IOS 14 | Safari
+Iphone 11 | IOS 14 | Google Chrome
+Iphone 11 | IOS 14 | Safari
+Iphone 12 | IOS 14 | Google Chrome
+Iphone 12 | IOS 14 | Safari
+
+И ТОГО
