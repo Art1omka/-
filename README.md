@@ -62,8 +62,9 @@ iPhone SE (2 поколения)
 iPod Touch
 iPod Touch (7)
 
-Разрешение экрана | OS | Browser
+First Header | Second Header
 ------------ | -------------
-Samsung Galaxy M52 XIAOMI REDMI 9 (2400 x 1080) | Android 9 | Google Chrome
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
