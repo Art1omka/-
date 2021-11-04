@@ -13,5 +13,44 @@ https://bloha.ru/news/samoe-populyarnoe-razreshenie-yekrana-n/
 3.SAMSUNG Galaxy A12 XIAOMI Redmi 9 (1600x720)
 Самые востребованные девайсы.
 OS: Android (актуальные: 9 10 11)
-![OS: Android](/images/Снимок.PNG)
+https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9_Android
+IOS (актуальные: 12 13 14) так как на данный момент большинство людей еще пользуются предыдущими версиями Айфон(Взял бы последние 3 актуальные версии а именно:Iphone X, Iphone 11, Iphone 12).
+https://www.itrew.ru/smartphone/iphone-poslednie-i-aktualnye-modeli.html
+
+IOS 12 была представлена 4 июня 2018 года
+(Поддерживает такие устройства) 
+iPhone 5s
+iPhone SE
+iPhone 6
+iPhone 6 Plus
+iPhone 6s
+iPhone 6s Plus
+iPhone 7
+iPhone 7 Plus
+iPhone 8
+iPhone 8 Plus
+iPhone X
+iPhone XR
+iPhone XS
+iPhone XS Max
+
+IOS 13 выпущена 19 сентября 2019 года. Поддерживает такие устройства:
+iPhone
+iPhone SE
+iPhone 6s
+iPhone 6s Plus
+iPhone 7
+iPhone 7 Plus
+iPhone 8
+iPhone 8 Plus
+iPhone X
+iPhone XR
+iPhone XS
+iPhone XS Max
+iPhone 11
+iPhone 11 Pro
+iPhone 11 Pro Max
+iPhone SE (2 поколения)
+iPod Touch
+iPod Touch (7)
 
