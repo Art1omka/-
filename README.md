@@ -64,7 +64,7 @@ iPod Touch (7)
 
 Разрешение экрана | OS | Browser |
 ------------ | ------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Samsung Galaxy M52 XIAOMI REDMI 9 (2400 x 1080) | Android 9 | Google Chrome
+SAMSUNG Galaxy A50 XIAOMI Redmi 9 (2340 х 1080)  | Android 10 | Google Chrome
 
 
