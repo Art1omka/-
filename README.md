@@ -62,7 +62,7 @@ iPhone SE (2 поколения)
 iPod Touch
 iPod Touch (7)
 
-First Header | Second Header
+Разрешение экрана | OS
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
