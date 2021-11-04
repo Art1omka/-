@@ -122,3 +122,12 @@ SAMSUNG Galaxy A12 XIAOMI Redmi 9 (Other) | Android 11 | Safari
 IphoneX | IOS 12 | Safari
 Iphone 11 | IOS 13 | Safari
 Iphone 12 | IOS 14 | Safari
+
+Для Huawei специальная ОС,которая набирает сейчас популярность
+
+Девайсы | OS | Browser |
+------------ | ------------- | -------------
+Huawei P50 | HarmonyOS | Google Chrome
+HUAWEI P Smart 2021 | HarmonyOS | Google Chrome
+Huawei P50 | HarmonyOS | Safari
+HUAWEI P Smart 2021 | HarmonyOS | Safari
