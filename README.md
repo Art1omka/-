@@ -12,5 +12,6 @@ https://bloha.ru/news/samoe-populyarnoe-razreshenie-yekrana-n/
 2. SAMSUNG Galaxy A50 XIAOMI Redmi 9 (2340 х 1080) 
 3.SAMSUNG Galaxy A12 XIAOMI Redmi 9 (1600x720)
 Самые востребованные девайсы.
-https://gs.statcounter.com/vendor-market-share/mobile
-![GitHub Logo](/images/logo.png)
+OS: Android (актуальные: 9 10 11)
+![OS: Android](/images/Снимок.PNG)
+
